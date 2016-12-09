@@ -1,6 +1,6 @@
 ﻿#-*-coding=utf-8-*-
 #!/usr/bin/env python
-"背包问题/线性规划问题"
+"计数求和问题"
 
 
 class Solution(object):
