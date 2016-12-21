@@ -2,8 +2,6 @@
 #/usr/bin/env python
 "最长递增子序列"
 
-from bisect import bisect
-
 def lcs(a,b):
     m,n = len(a),len(b)
     res = [[-1 for i in range(n+1)] for j in range(m+1)]  #中间结果矩阵 [m+1][n+1]
