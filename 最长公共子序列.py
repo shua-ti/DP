@@ -1,6 +1,6 @@
 ﻿#-*-coding=utf-8-*-
 #/usr/bin/env python
-"最长递增子序列"
+"最长公共子序列"
 
 from bisect import bisect
 
